@@ -1,4 +1,4 @@
-##DALL-E Clone
+# DALL-E Clone
 
 - This is a DALL-E clone application created using the MERN stack (MongoDB, Express.js, React, Node.js). 
   DALL-E is a neural network model developed by OpenAI that generates images from textual descriptions. 
